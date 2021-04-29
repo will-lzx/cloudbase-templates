@@ -9,6 +9,6 @@ exports.main = async (event, context) => {
   // your code here
   return {
     event,
-    message: ' test hello world'
+    message: 'nupaeer hello world'
   };
 };

@@ -29,7 +29,7 @@ export default function Hello() {
             通过
             <a
               href="https://cloud.tencent.com/document/product/876/46177"
-              target="_blank"
+              // target="_blank"
             >
               未登录 + 安全规则
             </a>
